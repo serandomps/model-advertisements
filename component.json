@@ -1,0 +1,20 @@
+{
+    "name": "model-advertisements",
+    "description": "model-advertisements component",
+    "scripts": [
+        "index.js",
+        "findone/index.js",
+        "service/index.js"
+    ],
+    "styles": [],
+    "templates": [
+        "findone/template.html"
+    ],
+    "main": "index.js",
+    "dependencies": {
+        "serandomps/serand": "master",
+        "serandomps/utils": "master",
+        "serandomps/dust": "master",
+        "serandomps/form": "master"
+    }
+}
